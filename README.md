@@ -12,6 +12,7 @@
     - [x] **Django Rest Framework**, 
     - [x] **MongoDB**
     - [ ] **Postgresql**
+    - [x] **Angular**
  
 - 👯 I’m looking to collaborate on open source projects.
  
