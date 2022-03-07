@@ -13,6 +13,7 @@
     - [x] **MongoDB**
     - [ ] **Postgresql**
     - [x] **Angular**
+    - [ ] **Flutter and Firebase**
  
 - 👯 I’m looking to collaborate on open source projects.
  
