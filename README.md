@@ -9,7 +9,7 @@
 - 🔭 I’m currently a sophomore engineering student @Sathyabama IST
  
 - 🌱 I have some good knowledge with 
-    - [x] **Python - Pandas,Numpy,Matplotlib**, 
+    - [x] **Python - Pandas , Numpy , Matplotlib**, 
     - [x] **Django**, 
     - [x] **Django Rest Framework**, 
     - [x] **MongoDB**
