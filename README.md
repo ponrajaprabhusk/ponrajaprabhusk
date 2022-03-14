@@ -12,7 +12,7 @@
     - [x] **Python - Pandas , Numpy , Matplotlib**, 
     - [x] **Django**, 
     - [x] **Django Rest Framework**, 
-    - [x] **MongoDB**
+    - [ ] **MongoDB**
     - [ ] **Postgresql**
     - [x] **Angular**
     - [ ] **Flutter and Firebase**
