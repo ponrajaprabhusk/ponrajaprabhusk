@@ -40,7 +40,7 @@
              <img align="left" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
            </a>
         </p> 
-<br />
-<br />
+<br>
+<br>
 
  - ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ponrajaprabhusk.visitor-badge&left_color=red&right_color=green) 
