@@ -9,13 +9,13 @@
 - 🔭 I’m currently a sophomore engineering student @Sathyabama IST
  
 - 🌱 I have a good knowledge on 
-    - [x] **Python - Pandas , Numpy , Matplotlib , Seaborn**, 
-    - [x] **Django**, 
-    - [x] **Django Rest Framework**, 
-    - [ ] **MongoDB**
-    - [ ] **Postgresql**
-    - [x] **Angular**
-    - [ ] **Flutter and Firebase**
+    *  **Python - Pandas , Numpy , Matplotlib , Seaborn**, 
+    *  **Django**, 
+    *  **Django Rest Framework**, 
+    *  **MongoDB**
+    *  **Database:** PostgreSQL and MySQL
+    *  **Angular**
+    *  **Flutter and Firebase**
  
 - 👯 I’m looking to collaborate on open source projects.
  
