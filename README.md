@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a sophomore engineering student @Sathyabama IST
  
-- 🌱 I have some good knowledge with 
+- 🌱 I have a good knowledge on 
     - [x] **Python - Pandas , Numpy , Matplotlib , Seaborn**, 
     - [x] **Django**, 
     - [x] **Django Rest Framework**, 
