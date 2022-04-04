@@ -6,7 +6,7 @@
 
 #### About me:
 
-- 🔭 I’m currently a sophomore engineering student @Sathyabama IST
+- 🔭 I’m a sophomore engineering student @Sathyabama IST
  
 - 🌱 I have a good knowledge on 
     *  **Python - Pandas , Numpy , Matplotlib , Seaborn**, 
