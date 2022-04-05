@@ -21,6 +21,8 @@
  
 - 🖥️ I'm currently exploring myself about *Data Analysis, Flutter and Devops*
 
+<hr>
+
 
 - Connect with me on:
         <p align="center">
@@ -40,6 +42,7 @@
              <img align="left" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
            </a>
         </p> 
+
 <br>
 <br>
 
