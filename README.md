@@ -13,8 +13,8 @@
     *  **Django**, 
     *  **Django Rest Framework**, 
     *  **Database:** 
-       * PostgreSQL and MySQL
-       *  MongoDB
+       * SQL - PostgreSQL and MySQL
+       * NoAql - MongoDB
     *  **Angular**
     *  **Flutter and Firebase**
  
