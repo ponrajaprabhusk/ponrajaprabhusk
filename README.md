@@ -12,8 +12,9 @@
     *  **Python - Pandas , Numpy , Matplotlib , Seaborn**, 
     *  **Django**, 
     *  **Django Rest Framework**, 
-    *  **MongoDB**
-    *  **Database:** PostgreSQL and MySQL
+    *  **Database:** 
+       * PostgreSQL and MySQL
+       *  MongoDB
     *  **Angular**
     *  **Flutter and Firebase**
  
