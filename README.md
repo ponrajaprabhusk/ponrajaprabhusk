@@ -14,7 +14,7 @@
     *  **Django Rest Framework**, 
     *  **Database:** 
        * SQL - PostgreSQL and MySQL
-       * NoAql - MongoDB
+       * NoSql - MongoDB
     *  **Angular**
     *  **Flutter and Firebase**
  
