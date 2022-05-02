@@ -5,7 +5,7 @@
  print("An Aspiring Developer who loves to code and to explore new technologies!!")
 ```
 
-* ## ✉️  You can contact me at [ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
+* ## ✉️ Reach me @[ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
 
 ### Skills
 
