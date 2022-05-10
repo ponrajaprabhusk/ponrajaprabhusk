@@ -7,7 +7,7 @@
 
 * ## ✉️ Reach me @[ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
 
-### Skills
+### Skills:
 
 <p align="left">
 <!-- <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&nbsp&nbsp -->
@@ -26,11 +26,11 @@
 </p>
 
 
-### Socials
+### Socials:
 
 <p align="left"> <a href="https://discord.com/users/ponrajaprabhusk#5123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://www.github.com/ponrajaprabhusk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp&nbsp&nbsp<a href="https://ponrajaprabhusk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> &nbsp&nbsp&nbsp <a href="http://www.instagram.com/shadow_surfer_sk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp&nbsp&nbsp <a href="https://www.linkedin.com/in/ponrajaprabhusk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp&nbsp&nbsp<a href="https://www.twitter.com/PONRAJAPRABHUSK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Badges:
 
 <b>My GitHub Stats</b>
 
