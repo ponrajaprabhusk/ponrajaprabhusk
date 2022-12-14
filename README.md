@@ -8,8 +8,9 @@
 ```
 
 
- - **Hello!** This is Pon Raja Prabhu, Studying **Bachelor of Computer Science and Engineering** in Sathyabama University (2020-2024)
-* #### ✉️ Reach me @[ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
+ - **Hello!** This is Pon Raja Prabhu 
+ - Studying **Bachelor of Computer Science and Engineering** in Sathyabama University (2020-2024)
+ - #### ✉️ Reach me @[ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
 
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ponrajaprabhusk.visitor-badge)
 
