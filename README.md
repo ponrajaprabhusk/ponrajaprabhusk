@@ -1,16 +1,14 @@
 ## Hi there 👋
-<h1 align="center"> <a href="https://bio.link/ponrajaprabhusk/">Pon Raja Prabhu S K</a></h1>
-
-<h4 align="center"> Check out my <a href="https://ponrajaprabhusk.github.io/">Portfolio</a>!!</h4>
+<h2 align="center"> <a href="https://bio.link/ponrajaprabhusk/">I am Pon Raja Prabhu S K</a></h1>
 
 ```py
  print("An Aspiring Developer who loves to develop applications and to explore new technologies!!")
 ```
 
-
  - **Hello!** This is Pon Raja Prabhu 
  - Studying **Bachelor of Computer Science and Engineering** in Sathyabama University (2020-2024)
  - #### ✉️ Reach me @[ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
+ - Check out my <a href="https://ponrajaprabhusk.github.io/">Portfolio</a>!!
 
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ponrajaprabhusk.visitor-badge)
 
