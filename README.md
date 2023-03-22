@@ -5,7 +5,7 @@
  print("An Aspiring Developer who loves to develop applications and to explore new technologies!!")
 ```
 
- - Studying **Bachelor of Computer Science and Engineering** in Sathyabama University (2020-2024)
+ - A Pre-Final Year Student Studying **Bachelor of Computer Science and Engineering** in Sathyabama University (2020-2024)
  - #### ✉️ Reach me @[ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
  - Check out my <a href="https://ponrajaprabhusk.github.io/">Portfolio</a>!!
 
