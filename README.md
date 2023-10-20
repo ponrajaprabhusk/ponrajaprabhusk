@@ -7,7 +7,7 @@
 
  - A Pre-Final Year Student Studying **Bachelor of Computer Science and Engineering** in Sathyabama University (2020-2024)
  - #### ✉️ Reach me @[ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
- - Check out my <a href="https://ponrajaprabhusk.github.io/">Portfolio</a>!!
+ - Check out my <a href="https://ponrajaprabhu-sk.web.app/">Portfolio</a>!!
 
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ponrajaprabhusk.visitor-badge)
 
