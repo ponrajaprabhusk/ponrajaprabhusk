@@ -5,7 +5,7 @@
  print("An Aspiring Developer who loves to develop applications and to explore new technologies!!")
 ```
 
- - Currentl working as a Java Developer at **TCS** with a **Bachelor of Computer Science and Engineering** Degree in Sathyabama University (2020-2024)
+ - Currently working as a Java Developer at **TCS** with a **Bachelor of Computer Science and Engineering** Degree in Sathyabama University (2020-2024)
  - #### ✉️ Reach me @[ponrajaprabhusk@gmail.com](mailto:ponrajaprabhusk@gmail.com)
  - Check out my <a href="https://ponrajaprabhu-sk.web.app/">Portfolio</a>!!
 
