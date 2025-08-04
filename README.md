@@ -2,7 +2,7 @@
 <h2 align="center"> I am <a href="https://bio.link/ponrajaprabhusk/">Pon Raja Prabhu S K</a></h1>
 
 ```py
- print("An Aspiring Developer who loves to develop applications and to explore new technologies!!")
+ print("A Full Stack Developer who loves to develop applications and to explore new technologies!!")
 ```
 
  - Currently working as a Java Developer at **TCS** with a **Bachelor of Computer Science and Engineering** Degree in Sathyabama University (2020-2024)
